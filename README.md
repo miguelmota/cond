@@ -2,7 +2,7 @@
 
 > Lisp inspired conditional construct (COND) in Javascript.
 
-[COND](https://www.cis.upenn.edu/~matuszek/LispText/lisp-cond.html) is a function which takes an arbitrary number clauses. A *clause* contains a list of two expressions. First expression is a condition (or predicate) and the second is the result. Each clause is ran in order, immediately returning the result where the condition is true.
+[COND](https://www.cis.upenn.edu/~matuszek/LispText/lisp-cond.html) is a function which takes an arbitrary number clauses. Each clause contains a list of two expressions. First expression is a condition (or predicate) and the second is the result. Each clause is ran in order, immediately returning the result where the condition is truthy.
 
 # Install
 
