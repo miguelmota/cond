@@ -1,0 +1,25 @@
+{
+  "name": "cond",
+  "main": "cond.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/cond",
+  "authors": [
+    "Miguel Mota <hello@miguelmota.com>"
+  ],
+  "description": "Lisp-like conditional construct (COND) in Javascript.",
+  "keywords": [
+    "conditional",
+    "expression",
+    "predicate",
+    "construct",
+    "lisp"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
